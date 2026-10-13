@@ -1,1 +1,4 @@
-
+{
+  "search": "YOUR_SEARCH_BYTE_PATTERN",
+  "replace": "YOUR_REPLACE_BYTE_PATTERN"
+}
